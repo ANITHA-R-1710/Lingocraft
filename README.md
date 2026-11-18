@@ -1,20 +1,23 @@
-# 🌐 Lingocraft
+🌐 Lingocraft
 
-Learn English easily with Lingocraft! 
-A fun and interactive app to improve your English vocabulary, grammar and speaking skills.
+AI Powered Language Translator
 
-## ✨ Features
-- 📖 Daily New Words
-- ✍️ Grammar Practice
-- 🎯 Quiz & Fun Learning
-- 🗣️ Speaking Practice
+Lingocraft is a simple web app to translate text from one language to another language easily. Built using Python and Streamlit with Google Translate API.
 
-## 🚀 Live Demo
-Check out the live app on Streamlit!
+🔗 Live Demo: https://lingocraft-2m5irnyhrun2lcymqtowdy.streamlit.app/
 
-## 🛠️ Built With
+✨ Features
+- 30+ Languages
+- Auto Detect Language
+- Text-to-Speech / Voice Pronunciation
+- Large Text & High Contrast Mode for Eye Problem
+- Quick Try Examples
+
+🛠️ Tech Used
 - Python
 - Streamlit
+- Google Translate API (deep-translator)
 
-## 👩‍💻 Created By
-ANITHA-R-1710
+🚀 How to Run
+pip install -r requirements.txt
+streamlit run app.py
